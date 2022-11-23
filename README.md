@@ -1,2 +1,0 @@
-# website
-movie rating website
