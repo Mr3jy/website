@@ -1,0 +1,86 @@
+body
+        .navbar {
+            background-image: url(/1.jpg);
+            position: fixed;
+            top: 0;
+            width: 100%;
+        }
+        .navbar a {
+            
+            display: inline-block;
+            padding: 6px 26px;
+            text-decoration: none;
+            color: red;
+            font-size: 20px;
+        }
+        body{
+            background-image:url(/1.jpg);
+            background-attachment: fixed;
+            background-repeat: no-repeat;
+            margin-top: 40px;
+            margin-left: 100px;
+            margin-right: 100px;
+            color: white;
+            
+        }
+        .bod{
+            style="margin-top: 25px;
+            margin-left:70 px ;
+            font-size: larger;
+        }
+        .pd{
+            margin-top: 25px;
+            margin-left: 100px;
+            margin-right: 70px;
+
+        }
+        .Home{
+            color: white;
+            margin-left: 70px;
+            margin-right: 70px;
+        }
+        
+        }
+        h1{
+        color: red;
+        margin-left: 70px;
+        margin-right: 70px;
+        }
+        h2{
+        color: red;
+        margin-left: 70px;
+        margin-right: 70px;
+
+        }
+        h3{
+        color: red;
+        margin-left: 70px;
+        margin-right: 70px;
+        }
+        .az{
+            color: azure;
+            margin-left: 70px;
+            margin-right: 70px;
+        }
+        .link{
+            float: left;
+            display: inline-block;
+            padding: 6px 26px;
+            text-decoration: none;
+            color: red;
+            font-size: 20px;
+        }
+        .loginf{
+            margin-left: 50px;
+            font-size: 20px;
+            color: yellow;
+            text-decoration: none;
+            }
+        .cont{
+            font-size: larger;
+            margin-top: 300px;
+        }
+        .linkb{
+            margin-top: 200px;
+            color: yellow;
+        }
